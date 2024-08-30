@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+    PackageName: ExpertDetectionDataset
+    PackageHomePage: https://github.com/mit-ll/ExpertDetectionDataset 
+    PackageOriginator: MIT Lincoln Laboratory
+    PackageCopyrightText: 2024 Massachusetts Institute of Technology
+    PackageLicenseDeclared: CC-BY-SA-4.0
